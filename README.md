@@ -66,7 +66,6 @@ Monitor,9500.0
 - **finally block** → ensures file resources are closed safely.
 
 ---
-## 📸 Screenshot
-![Screenshot](Screenshot.png)
+
 
 
